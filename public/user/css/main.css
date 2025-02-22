@@ -1,0 +1,557 @@
+/* =========================
+    Font & Text Styling
+============================ */
+.poppins-thin {
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.poppins-extralight {
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: normal;
+}
+.poppins-light {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.poppins-medium {
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.poppins-semibold {
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.poppins-bold {
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.poppins-extrabold {
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: normal;
+}
+.poppins-black {
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.parkinsans-thin{
+    font-family: 'Parkinsans', sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.parkinsans-extralight{
+    font-family: 'Parkinsans', sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+.parkinsans-light{
+    font-family: 'Parkinsans', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.parkinsans-regular{
+    font-family: 'Parkinsans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.parkinsans-medium{
+    font-family: 'Parkinsans', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.parkinsans-semibold{
+    font-family: 'Parkinsans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.parkinsans-bold{
+    font-family: 'Parkinsans', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.montserrat-thin{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.montserrat-extralight{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+.montserrat-light{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.montserrat-regular{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.montserrat-medium{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.montserrat-semibold{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.montserrat-bold{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.italic{
+    font-style: italic;
+}
+.f14{
+    font-size: 14px;
+}
+.f16{
+    font-size: 16px;
+}
+.f18{
+    font-size: 18px;
+}
+.f20{
+    font-size: 20px;
+}
+.f24{
+    font-size: 24px;
+}
+.f28{
+    font-size: 28px;
+}
+.f32{
+    font-size: 32px;
+}
+.f36{
+    font-size: 36px;
+}
+.text-black{
+    color: #000;
+}
+.text-white{
+    color: #fff;
+}
+.text-gray{
+    color: #666;
+}
+.text-blue{
+    color: #FF6500;
+}
+.text-orange{
+    color: #FF6500;
+}
+.text-green{
+    color: #4B70F5;
+}
+.bg-blue{
+    background-color: #D2E0FB;
+    color: #000;
+}
+.bg-green{
+    background-color: #C6F4D6;
+    color: #000;
+}
+.bg-orange{
+    background-color: #F6EACB;
+    color: #000;
+}
+.bg-redlight{
+    background-color: #FFC7CE;
+    color: #000;
+}
+.bg-purplelight{
+    background-color: #CDC1FF;
+    color: #000;
+}
+.bg-greylight{
+    background-color: #BCCCDC;
+    color: #000;
+}
+.bg-bluelightdark{
+    background-color: #89A8B2;
+    color: #000;
+}
+.bg-lightblue{
+    background-color: #B1F0F7;
+    color: #000;
+}
+/* =========================
+        Default Setting
+============================ */
+body{
+    background-color: #f6f6f6;
+}
+.section-custom{
+    margin-top: 50px;
+    padding-top: 20px;
+}
+.none-decoration{
+    text-decoration: none;
+    cursor: pointer;
+}
+.vh-92{
+    height: 89vh;
+}
+
+/* =========================
+        Novbar Setting
+============================ */
+.navbar{
+    background-color: #A1D6B2;
+}
+.img-dropdown {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding: 2px;
+    object-fit: cover;
+    border: 2px solid #4B70F5;
+    display: inline-block;
+}
+.dropdown-toggle::after {
+    display: none !important;
+}
+.mk-3{
+    margin-left: 10px;
+}
+/* =========================
+        Content List
+============================ */
+#search-destination {
+    position: relative;
+    background-image: url("/user/img/bg-1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#search-destination::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 1;
+}
+.container {
+    position: relative;
+    z-index: 2;
+}
+.select2-container {
+    width: 100% !important;
+}
+.select2-container--default .select2-selection__rendered {
+    font-family: 'Parkinsans', sans-serif !important;
+}
+.select2-container--default .select2-results__option {
+    font-family: 'Parkinsans', sans-serif !important;
+}
+/*===================
+    Kategori
+===================*/
+.card-waterpark {
+    position: relative;
+    padding: 10px;
+    height: 180px;
+    background-image: url("/user/img/waterpark-2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.card-mall {
+    position: relative;
+    padding: 10px;
+    height: 180px;
+    background-image: url("/user/img/mall.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.card-alam {
+    position: relative;
+    padding: 10px;
+    height: 180px;
+    background-image: url("/user/img/alam.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.card-kuliner {
+    position: relative;
+    padding: 10px;
+    height: 180px;
+    background-image: url("/user/img/restoran.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.card-danau {
+    position: relative;
+    padding: 10px;
+    height: 180px;
+    background-image: url("/user/img/danau.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.card-pantai {
+    position: relative;
+    padding: 10px;
+    height: 180px;
+    background-image: url("/user/img/pantai.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.card-sejarah {
+    position: relative;
+    padding: 10px;
+    height: 180px;
+    background-image: url("/user/img/sejarah.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.card-industri {
+    position: relative;
+    padding: 10px;
+    height: 180px;
+    background-image: url("/user/img/Sports.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.card-waterpark::after,
+.card-mall::after,
+.card-alam::after,
+.card-kuliner::after,
+.card-danau::after,
+.card-pantai::after,
+.card-sejarah::after,
+.card-industri::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 1;
+}
+.card-waterpark > *,
+.card-mall > *,
+.card-alam > *,
+.card-kuliner > *,
+.card-danau > *,
+.card-pantai > *,
+.card-sejarah > *,
+.card-industri > * {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+
+
+/*===================
+    Content List
+===================*/
+.card-contentList{
+    height: 400px;
+}
+.img-contentList{
+    height: 180px;
+    width: 100%;
+}
+.title-content {
+    font-size: 18px;
+    text-transform: capitalize;
+    font-family: 'Parkinsans', sans-serif;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word;
+}
+.listofcontent {
+    font-size: 14px;
+    font-family: 'Parkinsans', sans-serif;
+    font-style: italic;
+    font-weight: 300;
+    color: #666;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    max-width: 100%;
+}
+/*=======================
+        Profile
+=========================*/
+.card-profile{
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.card-device{
+    padding: 10px;
+}
+.img-medsos{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.img-profile{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    padding: 5px;
+    border: 2px solid #4B70F5;
+    object-fit: cover;
+}
+/*=======================
+        Footer
+=========================*/
+#footer{
+    background-color: #A1D6B2;
+    padding: 10px;
+    text-align: center;
+}
+.copyright{
+    font-size: 16px;
+    font-family: 'Parkinsans', sans-serif;
+}
+.credits{
+    font-size: 16px;
+    font-family: 'Parkinsans', sans-serif;
+    text-decoration: none;
+}
+.credits a{
+    text-decoration: none;
+}
+.our-media{
+    margin-right: 15px;
+}
+.our-media h3{
+    font-size: 20px;
+    font-family: 'Parkinsans', sans-serif;
+    font-weight: 500;
+}
+.our-media a{
+    text-decoration: none;
+}
+.img-our-media{
+    height: 30px;
+    height: 30px;
+}
+/*=======================
+    Responsive Mobile
+=========================*/
+@media screen and (max-width: 480px) {
+    .section-custom{
+        margin-top: 50px;
+    }
+    #search-destination{
+        height: 300px !important;
+    }
+    .f20{
+        font-size: 16px;
+    }
+    .f32{
+        font-size: 24px;
+    }
+    .card-contentList{
+        height: 350px;
+    }
+    .img-contentList{
+        height: 180px !important;
+    }
+    .title-content{
+        font-size: 16px !important;
+    }
+    .listofcontent{
+        font-size: 12px !important;
+    }
+    .title-home{
+        font-size: 20px;
+    }
+}
