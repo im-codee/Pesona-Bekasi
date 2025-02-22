@@ -7,19 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About Pesona-Bekasi
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Create a tourist attraction website using the <i>K-Means algorithm</i> for features based on the closest distance
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<p style="display:flex">
+  <img src="https://github.com/user-attachments/assets/94962234-35a6-400f-b43b-459af5cc429e" width="400" alt="image-1">
+  <img src="https://github.com/user-attachments/assets/ced82965-a6d9-4a06-b5fc-ee814097b2bd" width="400" alt="image-1">
+  <img src="https://github.com/user-attachments/assets/0c8df69e-ba25-4315-af5f-a373aa6618c6" width="400" alt="image-1">
+</p>
 
 ## Learning Laravel
 
