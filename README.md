@@ -11,6 +11,16 @@
 
 Create a tourist attraction website using the <i>K-Means algorithm</i> for features based on closest distance or based on category, other factors also influence such as popular tours, type of tour, and also ratings.
 
+**📌 Make with Laravel 10**
+
+<p align="center"> <b>Using 3 Aktor</b> </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3364eb3-74c4-42ef-bb12-fe0f2947976d" width="400" alt="image-aktor">
+</p>
+
+<p align="center"> <b>Web View</b> </p>
+
 <p style="display:flex">
   <img src="https://github.com/user-attachments/assets/94962234-35a6-400f-b43b-459af5cc429e" width="400" alt="image-1">
   <img src="https://github.com/user-attachments/assets/ced82965-a6d9-4a06-b5fc-ee814097b2bd" width="400" alt="image-2">
@@ -18,11 +28,21 @@ Create a tourist attraction website using the <i>K-Means algorithm</i> for featu
   <img src="https://github.com/user-attachments/assets/0c8df69e-ba25-4315-af5f-a373aa6618c6" width="400" alt="image-4">
 </p>
 
+<p align="center"> <b>Algorithm Codesnap 📸</b> </p>
+
 <p style="display:flex">
   <img src="https://github.com/user-attachments/assets/f6aa3763-4428-4b8b-972c-1360d2b91414" width="400" height="400" alt="image-5">
   <img src="https://github.com/user-attachments/assets/f444294c-21e9-40a7-a071-3d4602b576bf" width="400" height="400" alt="image-6">
 </p>
 
+<p align="center"> <b>SetLocation Setting Permission 🔐</b> </p>
+
+<p style="display:flex">
+  <img src="https://github.com/user-attachments/assets/2c09bdcd-8c61-4af1-a95c-6766e39ec05b" width="250" height="250" alt="image-5">
+  <img src="https://github.com/user-attachments/assets/18c2d858-9385-46b4-a0eb-bfea56b36013" width="250" height="250" alt="image-6">
+</p>
+
+**have trouble?**
 📲 Contact ? <==> <a href="https://www.instagram.com/spacecode.id/" target="_blank">Instagram</a> <br>
 ✉️ Contact ? <==> <a href="mailto:im.afjani@gmail.com" target="_blank">Mail</a>
 
