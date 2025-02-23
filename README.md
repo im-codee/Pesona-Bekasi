@@ -31,15 +31,8 @@ Create a tourist attraction website using the <i>K-Means algorithm</i> for featu
 <p align="center"> <b>Algorithm Codesnap 📸</b> </p>
 
 <p style="display:flex">
-  <img src="https://github.com/user-attachments/assets/15550fcb-5883-4c09-909c-e7595a2ba4ae" width="400" height="400" alt="image-5">
-  <img src="https://github.com/user-attachments/assets/ea5becd9-34c5-4918-bf03-48f8fb59f95b" width="400" height="400" alt="image-6">
-</p>
-
-<p align="center"> <b>SetLocation Setting Permission 🔐</b> </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a86c03e1-fd26-4cfc-93fe-818d68e0e932" width="250" height="400" alt="image-5">
-  <img src="https://github.com/user-attachments/assets/dd123961-8d8e-4b40-9505-c6095d8eeaf6" width="250" height="400" alt="image-6">
+  <img src="https://github.com/user-attachments/assets/15550fcb-5883-4c09-909c-e7595a2ba4ae" width="160" height="120" alt="image-5">
+  <img src="https://github.com/user-attachments/assets/ea5becd9-34c5-4918-bf03-48f8fb59f95b" width="160" height="120" alt="image-6">
 </p>
 
 **have trouble?** <br>
