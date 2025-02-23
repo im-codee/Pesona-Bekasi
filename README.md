@@ -37,12 +37,12 @@ Create a tourist attraction website using the <i>K-Means algorithm</i> for featu
 
 <p align="center"> <b>SetLocation Setting Permission 🔐</b> </p>
 
-<p style="display:flex">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/2c09bdcd-8c61-4af1-a95c-6766e39ec05b" width="250" height="250" alt="image-5">
   <img src="https://github.com/user-attachments/assets/18c2d858-9385-46b4-a0eb-bfea56b36013" width="250" height="250" alt="image-6">
 </p>
 
-**have trouble?**
+**have trouble?** <br>
 📲 Contact ? <==> <a href="https://www.instagram.com/spacecode.id/" target="_blank">Instagram</a> <br>
 ✉️ Contact ? <==> <a href="mailto:im.afjani@gmail.com" target="_blank">Mail</a>
 
